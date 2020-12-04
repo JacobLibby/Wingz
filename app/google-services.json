@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541417723728",
+    "firebase_url": "https://wingzbudgeting.firebaseio.com",
+    "project_id": "wingzbudgeting",
+    "storage_bucket": "wingzbudgeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541417723728:android:39b19a9858c9b0ed253e55",
+        "android_client_info": {
+          "package_name": "com.example.wingz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541417723728-1bhn7bgae9ip6r4frpm3s85mea9m6ih8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3AsjeH3skdU26JQZugaEwDKCXmOiIcqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541417723728-1bhn7bgae9ip6r4frpm3s85mea9m6ih8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
